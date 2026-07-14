@@ -1,11 +1,11 @@
 # Flood Risk and Health Infrastructure Exposure in Santa Fe, Argentina
 
+![Poster](poster/poster-1.png)
+
 GIS analysis of flood exposure across the province of Santa Fe (Argentina), combining hydrographic proximity analysis with digital elevation modeling to identify critical departments where populations and health facilities face real flood risk.
 
 **Author:** Fabricio Vera — Geography, Universidad Nacional del Litoral (FHUC-UNL)
 **Course:** Geographic Information Systems II — July 2026
-
-![Poster](poster/poster-1.png)
 
 ## Objective
 
